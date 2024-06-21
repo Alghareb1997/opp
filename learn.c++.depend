@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1718929564 source:c:\users\midoo\desktop\learn.c++\main.cpp
+	<iostream>
+	<math.h>
+	<Libarary.h>
+	<Book.h>
+	<Visitor.h>
+	<Employee.h>
+
+1718922206 source:c:\users\midoo\desktop\learn.c++\src\libarary.cpp
+	"Libarary.h"
+	<iostream>
+	<string>
+	<Libarary.h>
+
+1718922206 c:\users\midoo\desktop\learn.c++\include\libarary.h
+	<string>
+
+1718925602 c:\users\midoo\desktop\learn.c++\include\book.h
+	<Libarary.h>
+
+1718925602 source:c:\users\midoo\desktop\learn.c++\src\book.cpp
+	"Book.h"
+	<string>
+	<iostream>
+
+1718929121 c:\users\midoo\desktop\learn.c++\include\visitor.h
+	<string>
+	<Libarary.h>
+
+1718929677 source:c:\users\midoo\desktop\learn.c++\src\visitor.cpp
+	"Visitor.h"
+	<string>
+	<iostream>
+
+1718929457 c:\users\midoo\desktop\learn.c++\include\employee.h
+	<Libarary.h>
+	<Visitor.h>
+
+1718930146 source:c:\users\midoo\desktop\learn.c++\src\employee.cpp
+	"Employee.h"
+	<iostream>
+
